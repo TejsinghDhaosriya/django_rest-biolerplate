@@ -11,13 +11,31 @@ Steps for setup the biolerplate:
 
 
 2)cd django_rest-biolerplate
+
+
+
+
+
 3)pip install -r requirements.txt
+
+
+
 4)python manage.py runserver
 
 
+
+
 Note :- a superuser is already created ,login into django admin with
+
+
        email :- tej@digitalprojekt.co
+       
+       
+       
        password:- 12345
+       
+       
+       
   
 
 
