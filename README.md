@@ -4,7 +4,13 @@ A Django Rest Biolerplate With Custom User Signup and Login
 Steps for setup the biolerplate:
 
 1)Clone the github repo https://github.com/TejsinghDhaosriya/django_rest-biolerplate
-2)cd django-rest-biolerplate
+
+
+
+
+
+
+2)cd django_rest-biolerplate
 3)pip install -r requirements.txt
 4)python manage.py runserver
 
